@@ -1,2 +1,2 @@
 # MyServer
-Basically my server.
+Basically my Minecraft server.
